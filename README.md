@@ -1,4 +1,6 @@
 # りりぷれ ぷろとたいぷ
+![りりぷれ ぷろとたいぷ スクリーンショット](ss_lnp_proto.png "りりぷれ ぷろとたいぷ スクリーンショット")
+
 [「Lily Novel Player」](https://github.com/lost-nd-xxx/LilyNovelPlayer/wiki)用サプリメントです。<br>
 LNPへインストールすると、LNP開発中に使われていたプロトタイプシナリオをお楽しみいただけます。<br>
 このサプリメントに含まれる`.txt`形式のファイルは、著作表記なしで改変再配布可能とします。<br>
