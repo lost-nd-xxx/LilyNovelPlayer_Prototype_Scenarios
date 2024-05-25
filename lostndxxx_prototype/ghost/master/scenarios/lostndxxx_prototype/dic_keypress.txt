@@ -1,0 +1,33 @@
+＃キーが押された反応
+
+
+
+＊lostndxxx_prototype.aが押された	（メニュー状態.オート）==1
+＞メニュー.オート
+
+
+
+＊lostndxxx_prototype.sが押された	（メニュー状態.スキップ）==1
+＞メニュー.スキップ
+
+
+
+＊lostndxxx_prototype.tが押された	（メニュー状態.タイトルに戻る）==1
+＞メニュー.タイトルに戻る
+
+
+
+＊lostndxxx_prototype.cが押された	（メニュー状態.コンフィグ）==1
+＞メニュー.コンフィグ
+
+
+
+＊lostndxxx_prototype.lが押された	（メニュー状態.バックログ）==1&&（バックログ中）!=1
+＞メニュー.バックログ
+
+
+
+＊lostndxxx_prototype.rが押された
+\![change,ghost,"Lily Novel Player",--option=raise-event]
+
+

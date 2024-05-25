@@ -1,0 +1,22 @@
+charset,UTF-8
+//[必要に応じて変更]このinstall.txtの文字コード
+
+//ここから下は以下URLも参照のこと
+// https://ssp.shillest.net/ukadoc/manual/descript_install.html
+
+type,supplement
+//[変更不可]このファイルセットの種類
+
+name,りりぷれ ぷろとたいぷ
+//[必ず変更]このファイルセットの名前
+
+accept,LilyNovelPlayer0
+//[変更不可]受け取れるゴーストの￥０名
+
+
+
+reflesh,0
+//[変更不可]フォルダ内の既存のファイルを消すかどうか
+//！！絶対に1を指定しないでください！！
+//その状態のサプリメントをインストールすると、
+//ゴースト内のほとんどのものが消えてしまいます！
